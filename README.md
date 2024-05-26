@@ -11,6 +11,7 @@ Welcome to the repository for AI Lab Course at University of Isfahan. This repos
 - [Week 7: Road Sign Detection](#week-7-road-sign-detection)
 - [Week 8: Fundamentals of NLP](#week-8-fundamentals-of-nlp)
 - [Week 9: Text Classification](#week-9-text-classification)
+- [Week 10: Speech to Text with Wav2Vec](#week-10-speech-to-text-with-wav2vec)
 
 ## Week 1: Classification
 
@@ -71,4 +72,14 @@ These concepts are fundamental to understanding modern NLP techniques and archit
 
 In the final week, we built a text classifier for emails to categorize them as positive, negative, or mixed sentiments. We used BERT tokenizer and `BertForSequenceClassification` for this task, leveraging pre-trained models for efficient text classification.
 
-## Week 10: Stay Tuned!
+## Week 10: Speech to Text with Wav2Vec
+
+In the tenth week, we explored speech recognition using Wav2Vec 2.0. The activities included:
+- Loading the audio data
+- Utilizing the Wav2Vec 2.0 model for speech-to-text conversion
+- Evaluating the model's performance on an audio samples
+- Plot Signal, FFT, and MFCC Forms of it
+
+This week demonstrated the application of deep learning models in converting spoken language into written text, showcasing advancements in automatic speech recognition (ASR) technologies.
+
+## Week 11: Stay Tuned!
